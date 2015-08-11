@@ -10,3 +10,5 @@ However, because of building the circuit is an length and expensive process it c
 By taking two or more measurements, we are able to see how long a request would normally take and how long the request initially took, if the first request is not "significantly" larger than the second, then it is possibly because the user already had a circuit build for the onion in question which means they had previously connected to it.
 
 This allows us to tell if a user has or has not recently connected to a certain onion service.
+
+P.S. Excuse my terrible javascript.
